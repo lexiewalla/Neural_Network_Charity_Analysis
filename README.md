@@ -31,7 +31,7 @@ What steps did you take to try and increase model performance?
 
 ## Summary 
 
-THe model turned out to be 73% accruate. I know the target was 75% but given we were only 2% away it wasn't bad. There are several different models out there that we could try in place of this to get it closer to 75% like Random Forest Classifier or an Adaboost Classifier or we could try to gather more data before analyzing. 
+The model turned out to be 73% accruate. I know the target was 75% but given we were only 2% away it wasn't bad. There are several different models out there that we could try in place of this to get it closer to 75% like Random Forest Classifier or an Adaboost Classifier or we could try to gather more data before analyzing. 
 
 
 
